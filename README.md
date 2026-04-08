@@ -1,6 +1,6 @@
 # Amazon-Brazil-E-Commerce-Analysis-PostgreSQL
 An end-to-end analysis of Amazon Brazil's e-commerce data focusing on payment behavior, customer segmentation, and seasonal sales trends using PostgreSQL.
-#  Sales & Customer Behavior Analysis
+#  Trends & Customer Behavior Analysis
 
 ## Project Overview
 This project analyzes an Amazon Brazil e-commerce dataset using **PostgreSQL** to extract business-critical insights. The analysis is divided into payment behavior, product performance, and customer loyalty segmentation.
