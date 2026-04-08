@@ -3,7 +3,7 @@ An end-to-end analysis of Amazon Brazil's e-commerce data focusing on payment be
 #  Sales & Customer Behavior Analysis
 
 ## Project Overview
-This project analyzes an e-commerce dataset using **PostgreSQL** to extract business-critical insights. The analysis is divided into payment behavior, product performance, and customer loyalty segmentation.
+This project analyzes an Amazon Brazil e-commerce dataset using **PostgreSQL** to extract business-critical insights. The analysis is divided into payment behavior, product performance, and customer loyalty segmentation.
 
 ## Key Insights
 * [cite_start]**Payment Trends:** Credit cards are the most popular payment method [cite: 14, 26] [cite_start]and yield the highest average payment value[cite: 14].
